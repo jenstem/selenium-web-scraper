@@ -23,7 +23,7 @@ I wanted to a create a Python Web Scraping app using Selenium.  The app is set t
 
 AS A fan of the show, House of the Dragon, I am looking for past seasons to purchase\
 I WANT an automated way to search Amazon and find what I am looking for\
-SO THAT I re-watch my favorite show
+SO THAT I can re-watch my favorite show
 ##
 
 <a id='acceptance'></a>
