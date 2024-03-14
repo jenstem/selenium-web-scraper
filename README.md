@@ -33,7 +33,7 @@ GIVEN a Python and Selenium Web Scraping app\
 WHEN I install the libraries and run the app\
 THEN I see the automated Web Scraping app running\
 WHEN the app is finished running\
-THEN I see a screenshot of the final product on my Desktop and the app automatically closes\
+THEN I see a screenshot of the final product on my Desktop and the app automatically closes
 ##
 
 <a id='installation'></a>
@@ -61,7 +61,7 @@ There's nothing else you need to do, everything has been automated.
 <a id='screenshots'></a>
 ## Screenshots/Gifs:
 
-<img src="https://github.com/jenstem/space_invasion/blob/main/space-invasion-ezgif.com-video-to-gif-converter.gif" width=1000>
+<img src="https://github.com/jenstem/selenium-web-scraper/blob/main/houseofdragon.gif" width=1000>
 
 <a id='contact'></a>
 ## Contact Me
